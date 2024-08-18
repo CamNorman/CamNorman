@@ -2,7 +2,7 @@ Hello I'm Cameron Norman!
 
 I am a Data Science Analyst
 
-I am currently enrolled in Bloomtech furthering my education in Data Analytics
+Graduate of Bloomtech Institute of Technology
 
 Im looking to collaborate on new projects that will further my understanding of coding
 
