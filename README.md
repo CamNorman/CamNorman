@@ -6,7 +6,7 @@ Graduate of Bloomtech Institute of Technology
 
 Im looking to collaborate on new projects that will further my understanding of coding
 
-I am proficient in Python
+I am proficient in Python and SQL
 
 Ways to connect with me:
 Email:
@@ -14,6 +14,9 @@ cameronnorman07@gmail.com
 
 Instagram:
 @cameron_norman07
+
+Linkedin:
+https://www.linkedin.com/in/cameron-norman-122713202/
 
 
 ![it-crowd-off-on](https://github.com/CamNorman/BT-Career-Artifact/assets/142457053/cc5204b9-0908-4d58-b717-394845c15d12)
