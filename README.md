@@ -4,16 +4,13 @@ I am a Data Science Analyst
 
 Graduate of Bloomtech Institute of Technology
 
-Im looking to collaborate on new projects that will further my understanding of coding
+Im looking to collaborate on new projects that will further my understanding of Data Analytics 
 
 I am proficient in Python and SQL
 
 Ways to connect with me:
 Email:
 cameronnorman07@gmail.com
-
-Instagram:
-@cameron_norman07
 
 Linkedin:
 https://www.linkedin.com/in/cameron-norman-122713202/
