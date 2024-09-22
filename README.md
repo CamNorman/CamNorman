@@ -1,10 +1,10 @@
 Hello I'm Cameron Norman!
 
-I am a Data Science Analyst
+I am a Data Science Analyst.
 
-Graduate of Bloomtech Institute of Technology
+Graduate of Bloomtech Institute of Technology.
 
-Im looking to collaborate on new projects that will further my understanding of Data Analytics 
+Im looking to collaborate on new projects that will further my understanding of Data Analytics. 
 
 I am proficient in Python and SQL
 
