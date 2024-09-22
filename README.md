@@ -9,6 +9,7 @@ Im looking to collaborate on new projects that will further my understanding of 
 I am proficient in Python and SQL
 
 Ways to connect with me:
+
 Email:
 cameronnorman07@gmail.com
 
