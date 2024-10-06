@@ -4,7 +4,7 @@ I am a Data Science Analyst.
 
 Graduate of Bloomtech Institute of Technology.
 
-Im looking to collaborate on new projects that will further my understanding of Data Analytics. 
+I'm looking to collaborate on new projects that will further my understanding of Data Analytics. 
 
 I am proficient in Python and SQL
 
